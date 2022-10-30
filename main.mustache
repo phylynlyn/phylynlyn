@@ -28,5 +28,24 @@
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=black" />
 </p>
 
-<h3>My open source projects <img src="https://media.giphy.com/media/iG9yW3Kw7WFdPqHQG8/giphy.gif" width"30"/></h3>
+<h3>My open source projects <img src="https://media.giphy.com/media/iG9yW3Kw7WFdPqHQG8/giphy.gif" width="30"/></h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><<b>coming soon</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
+<h3>My posts from Medium</h3>
+<h3>My Certificate</h3>
+<h3>Event that i involve</h3>
