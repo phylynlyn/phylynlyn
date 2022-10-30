@@ -69,4 +69,4 @@
 </p>
 
 ------------
-<p align="center"><img src="https://img.shields.io/badge/say-thanks-ff69b4.svg" /> </p>
+<p align="center"><img src="https://img.shields.io/badge/say-thanks-ff69b4.svg" /> Thanks!!</p>
