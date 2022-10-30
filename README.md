@@ -67,3 +67,6 @@
     <img width="200" src="./asset/img/302082738_609736870697435_2471351977194872574_n.jpeg" />
     <img width="200" src="./asset/img/311452609_1179158132956100_1234121403333623727_n.jpeg" />
 </p>
+
+------------
+<p align="center"><img src="https://img.shields.io/badge/say-thanks-ff69b4.svg" /> </p>

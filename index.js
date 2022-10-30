@@ -1,14 +1,12 @@
-const Mustache = require('mustache');
-const fs = require('fs');
+import fetch from "node-fetch";
+import Mustache from "mustache";
+import fs from "fs";
+
 const MUSTACHE_MAIN_DIR = './main.mustache';
-/**
-  * DATA is the object that contains all
-  * the data to be provided to Mustache
-  * Notice the "name" and "date" property.
-*/
+
 let DATA = {
-  name: 'Naphun',
-  date: new Date().toLocaleDateString('en-GB', {
+    name: 'Pie',
+    refresh_date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
@@ -16,7 +14,7 @@ let DATA = {
     minute: 'numeric',
     timeZoneName: 'short',
     timeZone: 'Europe/Stockholm',
-  }),
+    }),
 };
 /**
   * A - We open 'main.mustache'
@@ -30,4 +28,12 @@ function generateReadMe() {
     fs.writeFileSync('README.md', output);
   });
 }
-generateReadMe();
+
+async function action() {
+    /**
+   * Generate README
+   */
+    await generateReadMe();
+}
+
+action();
