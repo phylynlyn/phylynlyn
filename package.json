@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --experimental-modules src/index.mjs "
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,7 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "fetch": "^1.1.0",
-    "dotenv": "^8.2.0",
     "mustache": "^4.2.0",
     "node-fetch": "^3.2.10"
   }
