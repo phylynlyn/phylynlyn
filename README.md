@@ -22,10 +22,10 @@
   <img alt="SemanticRelease" src="https://img.shields.io/badge/-SemanticRelease-494949?style=flat-square&logo=semanticrelease&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Anydesk" src="https://img.shields.io/badge/-Anydesk-EF443B?style=flat-square&logo=anydesk&logoColor=white" />
-  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js&logoColor=black" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=black" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Alibabacloud" src="https://img.shields.io/badge/-Alibaba Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=black" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=black" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 <h3>My open source projects <img src="https://media.giphy.com/media/iG9yW3Kw7WFdPqHQG8/giphy.gif" width="30"/></h3>
