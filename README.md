@@ -60,6 +60,7 @@
 <h3>My Certificate<img src="https://media.giphy.com/media/XHA19bh4lGT898OyoK/giphy.gif" width="30"/></h3>
 <p>
     <img width="200" src="./asset/certificate/img_069c6d0badcbdba81885bcd7c8edd16c.png" />
+    <img width="200" src="./asset/certificate/intro_docker.png" />
 </p>
 <h3>Event that i involve<img src="https://media.giphy.com/media/eM6occrs936MS8AW9B/giphy.gif" width="30"/></h3>
 <p>
