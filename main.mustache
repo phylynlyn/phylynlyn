@@ -46,6 +46,19 @@
   </tbody>
 </table>
 
-<h3>My posts from Medium</h3>
-<h3>My Certificate</h3>
-<h3>Event that i involve</h3>
+<h3>My posts from Medium<img src="https://media.giphy.com/media/W561U4QeCNlzabUnfV/giphy.gif" width="30"/></h3>
+<ul>
+  <li><a href="https://medium.com/@naphun.m/container-for-new-starter-1-6a60feb68a4d"><b><img src="https://media.giphy.com/media/3eOyZLh8lOPelxiZFr/giphy.gif" width="20" alt="new" /> Container for new Starter(1)
+  </b></a><br/><i>How to create and know about concept of Container for new Starter!.</i></li>
+  <li><a href="https://medium.com/@naphun.m/once-upon-a-time-in-kubeops-skills-ce3fed403a03"><b><img src="https://media.giphy.com/media/L0rdrnIi3oKu1oHoDL/giphy.gif" width="20" alt="new" /> Once Upon a Time in KubeOps Skills
+  </b></a><br/><i>How do i enter to KubeOps Skills company? (Thai language).</i></li>
+</ul>
+<h3>My Certificate<img src="https://media.giphy.com/media/XHA19bh4lGT898OyoK/giphy.gif" width="30"/></h3>
+<p>
+    <img width="200" src="./asset/certificate/img_069c6d0badcbdba81885bcd7c8edd16c.png" />
+</p>
+<h3>Event that i involve<img src="https://media.giphy.com/media/eM6occrs936MS8AW9B/giphy.gif" width="30"/></h3>
+<p>
+    <img width="200" src="./asset/img/302082738_609736870697435_2471351977194872574_n.jpeg" />
+    <img width="200" src="./asset/img/311452609_1179158132956100_1234121403333623727_n.jpeg" />
+</p>
