@@ -42,6 +42,9 @@
   <tbody>
      <tr>
       <td><b>coming soon</b></a></td>
+      <td><b>coming soon</b></a></td>
+      <td><b>coming soon</b></a></td>
+      <td><b>coming soon</b></a></td>
     </tr>
   </tbody>
 </table>
